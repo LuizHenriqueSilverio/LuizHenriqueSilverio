@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20009e&height=180&section=header&text=Luiz+Henrique+Silvério+de+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffdead&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Luiz+Henrique;Tenho+23+anos;Eu+estou+me+Graduando+em+Sistemas+de+Informação;Be+Welcome!+:%29;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
 ## ⚡ GitHub Stats:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueSilverio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LuizHenriqueSilverio's github stats" /> 
