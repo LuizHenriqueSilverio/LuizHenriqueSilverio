@@ -48,7 +48,7 @@
 
 <div style="display: inline_block"><br>
 	<a href = "mailto:luizhenriquesilverios@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/luiz-henrique-silvério-de-souza-29a145234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/luizhsilveriosouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://steamcommunity.com/id/MailsonJendes/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
